@@ -1,0 +1,6 @@
+#!/bin/bash
+
+DATE=$(jdate | awk '{print $2" "$6}')
+DAY=$(date | awk '{print $1}')
+
+echo "📆 $DAY $DATE"
