@@ -13,4 +13,4 @@ elif [[ $stat == 'Discharging' ]]; then
 	stat="🔋"
 fi
 
-echo $stat
+echo $stat$perc
