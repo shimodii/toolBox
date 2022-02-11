@@ -1,0 +1,13 @@
+#copy it to /etc/systemd/system
+
+[Unit]
+Description=example service
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=300s
+ExecStart=/bin/bash /usr/local/bin/musicmovers.sh
+
+[Install]
+WantedBy=multi-user.target
