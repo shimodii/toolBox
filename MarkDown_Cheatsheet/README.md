@@ -73,5 +73,24 @@ Amirmohammad:
 > hello
 ```
 output:
-Amirmohammad:
+> Amirmohammad:
+> > hello
+
+# SOME OTHERS
+### IMAGE WITH LINK 
+md: 
+```
+[![TEXT](PATH_TO_IMAGE)](LINK)
+```
+output:
+> [![MDLOGO](./markdown.png)](https://github.com/am-shm/toolBox/tree/main/MarkDown_Cheatsheet)
+
+### BLOCK
+md:
+```
+hello
+	this is a block with some text
+```
+output:
 > hello
+>	this is a block with some text
