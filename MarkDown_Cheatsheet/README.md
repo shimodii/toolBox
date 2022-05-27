@@ -45,3 +45,16 @@ md:
 ```
 output:
 > [GOOGLE](https://google.com)
+
+# TABLE
+md:
+```
+| firstBlock | 2ndBlk |
+| ---------- | ------ |
+| 3rdBlk     | 4thBlk |
+```
+output:
+> | firstBlock | 2ndBlk |
+> | ---------- | ------ |
+> | 3rdBlk     | 4thBlk |
+
