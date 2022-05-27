@@ -18,3 +18,13 @@ output:
 > #### header4
 > ##### header5
 
+# TODO & CHECKBOX
+md:
+```
+[ ] todo 
+[x] done 
+```
+output:
+
+> [ ] todo 
+> [x] done 
