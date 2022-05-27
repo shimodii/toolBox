@@ -58,3 +58,11 @@ output:
 > | ---------- | ------ |
 > | 3rdBlk     | 4thBlk |
 
+# IMAGE 
+md:
+```
+![TEXT](PATH_TO_IMAGE)
+```
+output:
+> ![markDownLogo](./markdown.png)
+
