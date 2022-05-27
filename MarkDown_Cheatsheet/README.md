@@ -26,5 +26,5 @@ md:
 ```
 output:
 
-> [ ] todo 
-> [x] done 
+> - [ ] todo 
+> - [x] done 
