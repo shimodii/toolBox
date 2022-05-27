@@ -37,3 +37,11 @@ md:
 ``` 
 output:
 > [Goto first header](#HEADERS)
+
+# LINKS
+md:
+```
+[TEXT](link)
+```
+output:
+> [GOOGLE](https://google.com)
